@@ -4,14 +4,13 @@
 
 # GitTutorial
 
-[Link][1]
-
-07 Mar 2025 09:30
+[Link][2] updated 2025年3月9日
 
 ## W3C Tutorial
 https://www.w3schools.com/git/
 
 [1]: https://c2pang.github.io/GitTutorial/
+[2]: https://docs.syncthing.net/intro/getting-started.html
 [14]: https://syncthing.net/assets/logo-text-128.png
 [15]: https://syncthing.net/
 

@@ -3,9 +3,7 @@
 [![MPLv2 License](https://img.shields.io/badge/license-MPLv2-blue.svg?style=flat-square)](https://www.mozilla.org/MPL/2.0/)
 
 # GitTutorial
-
-[Link][2] updated 2025年3月9日
-
+Updated 2025年3月9日 [Syncthing Get Start][2]
 ## W3C Tutorial
 https://www.w3schools.com/git/
 

@@ -1,5 +1,6 @@
-# YinTang
-[![MPLv2 License](https://img.shields.io/badge/license-MPLv2-blue.svg?style=flat-square)](https://www.mozilla.org/MPL/2.0/)
+# 隐塘故事
+
+[YinTang][3]
 
 Updated 2025年3月10日
 ---
@@ -11,5 +12,10 @@ Updated 2025年3月10日
 [Git Tutorial][1]
 [HTML Tutorial][2]
 
+<footer>
+  <p>&copy; 2025 c2pang. All rights reserved.</p>
+</footer>
+
 [1]: https://www.w3schools.com/git/
 [2]: https://www.w3schools.com/html/
+[3]: https://c2pang.github.io/YinTang

@@ -7,8 +7,9 @@ Updated 2025年3月10日
 ## Untold Stories
 1. 隋朝祖故事
 
-[1]: https://c2pang.github.io/GitTutorial/
-[2]: https://docs.syncthing.net/intro/getting-started.html
-[14]: https://syncthing.net/assets/logo-text-128.png
-[15]: https://syncthing.net/
+## Resources
+[Git Tutorial][1]
+[HTML Tutorial][2]
 
+[1]: https://www.w3schools.com/git/
+[2]: https://www.w3schools.com/html/

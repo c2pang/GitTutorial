@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: SimSun, serif;
+  font-family: SimSun,serif;
   background-color: #f4f4f4;
   color: #222222;
 }
@@ -55,6 +55,8 @@ body {
   background-color: white;
 }
 h1 {
+  border: 1px solid #ccc;
+  padding-left: 10px;
 }
 p {
   line-height: 1.6;

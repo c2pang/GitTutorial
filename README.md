@@ -3,13 +3,13 @@
 [YinTang][3]
 
 Updated 2025年3月10日
----
 
 ## Untold Stories
 1. 隋朝祖故事
 
 ## Resources
 [Git Tutorial][1]
+
 [HTML Tutorial][2]
 
 <footer>
